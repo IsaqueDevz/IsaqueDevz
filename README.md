@@ -33,7 +33,7 @@ Pequeno sistema CRUD feito para estudos de lógica e manipulação de dados.
 
 <div>
   <a href="mailto:isaquedev.contato@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/isaquedev.contato@hotmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
   </a>
 </div>
 
