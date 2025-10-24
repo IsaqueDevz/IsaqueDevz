@@ -1,3 +1,6 @@
+<img width="2240" height="1260" alt="image" src="https://github.com/user-attachments/assets/2e80eb46-28bf-430e-8417-ded07630fe19" />
+
+
 <h1 align="center">👋 Olá! Eu sou o Isaque</h1>
 
 <h3 align="center">Estudante & Desenvolvedor Python 🐍</h3>
