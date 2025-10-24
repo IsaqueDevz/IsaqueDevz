@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Olá! Eu sou o Isaque 👋</h1>
 
-<!--
-**IsaqueDevz/IsaqueDevz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">Estudante e Desenvolvedor Python</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐍 Tecnologias que utilizo
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</div>
+
+---
+
+### 📌 Projeto em destaque
+
+🔹 **Mini Banco de Dados em Python**  
+Um sistema CRUD simples para estudo de lógica e manipulação de dados  
+➡️ Repositório: https://github.com/IsaqueDevz/Mini-Banco-de-Dados-em-Python
+
+---
+
+### 📫 Contato
+
+📧 Email: **isaquedev.contato@hotmail.com**
+
+---
+
+<p align="center">"Aprendendo todos os dias para alcançar o próximo nível!" 🚀</p>
