@@ -1,5 +1,4 @@
-<img width="2240" height="1260" alt="image" src="https://github.com/user-attachments/assets/2e80eb46-28bf-430e-8417-ded07630fe19" />
-
+<img width="1024" height="367" alt="isaque_banner" src="https://github.com/user-attachments/assets/b9daa773-4058-4b47-af17-b31a7594232a" />
 
 <h1 align="center">👋 Olá! Eu sou o Isaque</h1>
 
