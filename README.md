@@ -1,27 +1,41 @@
-<h1 align="center">Olá! Eu sou o Isaque 👋</h1>
+<h1 align="center">👋 Olá! Eu sou o Isaque</h1>
 
-<p align="center">Estudante e Desenvolvedor Python</p>
+<h3 align="center">Estudante & Desenvolvedor Python 🐍</h3>
 
 ---
 
-### 🐍 Tecnologias que utilizo
+### 🚀 Sobre mim
+- Estudando programação com foco em Python
+- Apaixonado por tecnologia e aprendizado constante
+- Buscando meu espaço como futuro Dev 💻✨
+
+---
+
+### 🛠 Tecnologias
+
 <div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=FFD43B">
 </div>
 
 ---
 
-### 📌 Projeto em destaque
+### 🌟 Projeto em Destaque
 
 🔹 **Mini Banco de Dados em Python**  
-Um sistema CRUD simples para estudo de lógica e manipulação de dados  
-➡️ Repositório: https://github.com/IsaqueDevz/Mini-Banco-de-Dados-em-Python
+Pequeno sistema CRUD feito para estudos de lógica e manipulação de dados.
+
+🔗 Acesse o projeto:  
+👉 https://github.com/IsaqueDevz/Mini-Banco-de-Dados-em-Python
 
 ---
 
-### 📫 Contato
+### 📬 Entre em contato
 
-📧 Email: **isaquedev.contato@hotmail.com**
+<div>
+  <a href="mailto:isaquedev.contato@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+  </a>
+</div>
 
 ---
 
