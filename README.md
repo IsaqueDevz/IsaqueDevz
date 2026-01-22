@@ -2,14 +2,14 @@
 
 <h1 align="center">👋 Olá! Eu sou o Isaque</h1>
 
-<h3 align="center">Estudante & Desenvolvedor Python 🐍</h3>
+<h3 align="center">Estudante De Análise de Dados e Python 🐍</h3>
 
 ---
 
 ### 🚀 Sobre mim
-- Estudando programação com foco em Python
+- Estudando programação com foco em Python e análise de dados
 - Apaixonado por tecnologia e aprendizado constante
-- Buscando meu espaço como futuro Dev 💻✨
+- Buscando meu espaço como futuro Analista 💻✨
 
 ---
 
